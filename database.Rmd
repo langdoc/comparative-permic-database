@@ -1,0 +1,53 @@
+---
+output: 
+  html_document:
+    output_dir: docs
+    include:
+      after_body: footer.html
+knit: (function(inputFile, encoding) { 
+      out_dir <- 'docs';
+      rmarkdown::render(inputFile,
+                        encoding=encoding, 
+                        output_file=file.path(dirname(inputFile), out_dir, 'index.html')) })
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo=FALSE, message=FALSE, warning = FALSE)
+library(tidyverse)
+```
+
+###  Comparative database of Permic varieties {.tabset .tabset-fade .tabset-pills}
+
+#### About
+
+This database accompanies the paper *On the questions in developing computational infrastructure for Komi-Permyak* by Rueter, Partanen & Ponomareva. The goal of that study was investigate the most central differences that must be accounted for when adapting Komi-Zyrian morphological analyser to work on Komi-Permyak. The features discussed in the paper are collected here into a database that can be extended later.
+
+License!!!
+
+#### Search
+
+```{r}
+
+comparison <- read_csv("database.csv", na = "")
+
+comparison <- comparison %>%
+  select(Permyak, Zyrian, everything())
+
+library(DT)
+
+datatable(comparison, filter = 'top', rownames = FALSE, options = list(dom = 'tip'), escape = FALSE)
+```
+
+<!--
+#### bibliography
+```{r}
+#bibliography <- read_tsv("bibliography.csv")
+#bibliography$script <- make_link_omniglot(bibliography$script, #bibliography$omniglot)
+#bibliography <- bibliography[, -4]
+
+#library(DT)
+#datatable(bibliography, filter = 'top', rownames = FALSE, options = list(autoWidth = FALSE), escape = FALSE)
+```
+-->
