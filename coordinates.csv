@@ -1,3 +1,25 @@
-language,latitude,longitude
-Permyak,59.01,54.65
-Zyrian,61.66,50.81
+language,latitude,longitude,polygon_id
+Permyak,59.01,54.65,
+Zyrian,61.66,50.81,
+Ižma,65.00869,53.908283,izva
+Udora,63.456226,48.894211,udora
+Vym,62.598297,50.887928,vym
+Luza-Letka,60.334034,49.618275,luza-letka
+Luza,60.334034,49.618275,
+Letka,59.4216681,49.7140233,
+Upper Sysola,60.441257,51.007,upper-sysola
+Middle Sysola,61.076214,50.084496,middle-sysola
+Lower Vyčegda,62.0898744,49.58882,lower-ezhva
+Upper Vyčegda,61.814941,51.560654,upper-ezhva
+Pečora,62.36307283830739,56.696708754257244,pechora
+Upper Lupya,60.556259,54.170639,upper-lup
+Mysovskiy,59.28329849243164,53.8650016784668,mys
+Kosa-Kama,59.772087,55.01017,kosa-kama
+Koča,59.6093673,54.3263904,kocha
+Zyuzdin,59.071267572442466,53.22141873836516,zyuzdin
+Yazva,60.03409957885742,57.551300048828125,jazva
+Kudymkar-Inva,59.014606,54.664135,kud-inva
+Lower Inva,58.98813037919996,55.39543392349241,lower-inva
+On,58.780613815518564,56.1513076424599,ony
+Nerdva,58.692147,55.0376166,nerdva
+Old Komi,,,
