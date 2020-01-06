@@ -1,69 +1,69 @@
 language,value,feature,category,comment
-Zyrian,mɨsk-,paragogic k in word 'lower back',lexical,NA
-Permyak,mɨs-,paragogic k in word 'lower back',lexical,NA
-Zyrian,ɕinm-,paragogic m in word 'eye',lexical,NA
-Permyak,ɕin-,paragogic m in word 'eye',lexical,NA
-Zyrian,kost-,paragogic t in word 'middle',lexical,NA
-Permyak,kos-,paragogic t in word 'middle',lexical,NA
-Zyrian,kor,vowel correspondence in word 'when',lexical,NA
-Permyak,kər,vowel correspondence in word 'when',lexical,NA
-Zyrian,ʃom,vowel correspondence in word 'sour',lexical,NA
-Permyak,ʃəm,vowel correspondence in word 'sour',lexical,NA
-Zyrian,d#,voicing correspondence t-d in word end,phonological,NA
-Permyak,t#,voicing correspondence t-d in word end,phonological,NA
-Zyrian,ɘj#,morpheme shape,phonological,NA
-Permyak,ə#,morpheme shape,phonological,NA
-Zyrian,iɡ,consonant voicing in gerund -iK,morphological,NA
-Permyak,ik,consonant voicing in gerund -iK,morphological,NA
-Zyrian,jas,plural formation,morphological,NA
-Permyak,C#Cez,plural formation,morphological,NA
-Zyrian,prl + tra,transitive case in nominal paradigm,morphological,NA
-Permyak,prl,transitive case in nominal paradigm,morphological,NA
-Zyrian,_,second terminative,morphological,NA
-Permyak,-vi,second terminative,morphological,NA
-Zyrian,lɨ,dative morpheme shape,morphological,NA
-Permyak,lə,dative morpheme shape,morphological,NA
-Zyrian,lɨɕ,ablative morpheme shape,morphological,NA
-Permyak,liɕ,ablative morpheme shape,morphological,NA
-Zyrian,ɨɕ,elative morpheme shape,morphological,NA
-Permyak,iɕ,elative morpheme shape,morphological,NA
-Zyrian,sə,adjective accusative form,morphological,NA
-Permyak,ə,adjective accusative form,morphological,NA
-Zyrian,munannɨd,2pl.pres,morphological,NA
-Permyak,munatə,2pl.pres,morphological,NA
-Zyrian,munənɨ,3pl.pres,morphological,NA
-Permyak,munən,3pl.pres,morphological,NA
-Zyrian,munasnɨ,3pl.fut,morphological,NA
-Permyak,munasə,3pl.fut,morphological,NA
-Zyrian,munisnɨ,3pl.pst,morphological,NA
-Permyak,munisə,3pl.pst,morphological,NA
-Zyrian,munəmaəɕ,pl.pst,morphological,NA
-Permyak,munəmaɕ,pl.pst,morphological,NA
-Zyrian,oz munnɨ,negation forms,syntactic,NA
-Permyak,ozə munə,negation forms,syntactic,NA
-Zyrian,oz,neg.2pl.pres,morphological,NA
-Permyak,od,neg.2pl.pres,morphological,NA
-Zyrian,-əj,2pl imperative forms,morphological,NA
-Permyak,-ce,2pl imperative forms,morphological,NA
-Zyrian,_,diminutive -ко,morphological,NA
-Permyak,-ko,diminutive -ко,morphological,NA
-Zyrian,med,optative particle,morphological,NA
-Permyak,aɕ,optative particle,morphological,NA
-Zyrian,_,gerund -тӧн,morphological,NA
-Permyak,tən,gerund -тӧн,morphological,NA
-Zyrian,_,pejorative -жуг,derivational,NA
-Permyak,-ʒuɡ,pejorative -жуг,derivational,NA
-Zyrian,-tor,diminutive -тор,derivational,NA
-Permyak,_,diminutive -тор,derivational,NA
-Zyrian,_,diminutive -иньӧй,derivational,NA
-Permyak,-iɲəj,diminutive -иньӧй,derivational,NA
-Zyrian,-tə,discourse marker -тӧ,morphological,NA
-Permyak,_,discourse marker -тӧ,morphological,NA
-Zyrian,-sə,discourse marker -сӧ,morphological,NA
-Permyak,_,discourse marker -сӧ,morphological,NA
-Zyrian,_,discourse marker -ту,morphological,NA
-Permyak,-tu,discourse marker -ту,morphological,NA
-Zyrian,_,discourse marker -то,morphological,NA
-Permyak,-to,discourse marker -то,morphological,NA
-Zyrian,-ə,question particle / word,lexical,NA
-Permyak,ja,question particle / word,lexical,NA
+Zyrian,mɨsk-,paragogic k in word 'lower back',lexical,
+Permyak,mɨs-,paragogic k in word 'lower back',lexical,
+Zyrian,ɕinm-,paragogic m in word 'eye',lexical,
+Permyak,ɕin-,paragogic m in word 'eye',lexical,
+Zyrian,kost-,paragogic t in word 'middle',lexical,
+Permyak,kos-,paragogic t in word 'middle',lexical,
+Zyrian,kor,vowel correspondence in word 'when',lexical,
+Permyak,kər,vowel correspondence in word 'when',lexical,
+Zyrian,ʃom,vowel correspondence in word 'sour',lexical,
+Permyak,ʃəm,vowel correspondence in word 'sour',lexical,
+Zyrian,d#,voicing correspondence t-d in word end,phonological,
+Permyak,t#,voicing correspondence t-d in word end,phonological,
+Zyrian,ɘj#,morpheme shape,phonological,
+Permyak,ə#,morpheme shape,phonological,
+Zyrian,iɡ,consonant voicing in gerund -iK,morphological,
+Permyak,ik,consonant voicing in gerund -iK,morphological,
+Zyrian,jas,plural formation,morphological,
+Permyak,C#Cez,plural formation,morphological,
+Zyrian,prl + tra,transitive case in nominal paradigm,morphological,
+Permyak,prl,transitive case in nominal paradigm,morphological,
+Zyrian,_,second terminative,morphological,
+Permyak,-vi,second terminative,morphological,
+Zyrian,lɨ,dative morpheme shape,morphological,
+Permyak,lə,dative morpheme shape,morphological,
+Zyrian,lɨɕ,ablative morpheme shape,morphological,
+Permyak,liɕ,ablative morpheme shape,morphological,
+Zyrian,ɨɕ,elative morpheme shape,morphological,
+Permyak,iɕ,elative morpheme shape,morphological,
+Zyrian,sə,adjective accusative form,morphological,
+Permyak,ə,adjective accusative form,morphological,
+Zyrian,munannɨd,2pl.pres,morphological,
+Permyak,munatə,2pl.pres,morphological,
+Zyrian,munənɨ,3pl.pres,morphological,
+Permyak,munən,3pl.pres,morphological,
+Zyrian,munasnɨ,3pl.fut,morphological,
+Permyak,munasə,3pl.fut,morphological,
+Zyrian,munisnɨ,3pl.pst,morphological,
+Permyak,munisə,3pl.pst,morphological,
+Zyrian,munəmaəɕ,pl.pst,morphological,
+Permyak,munəmaɕ,pl.pst,morphological,
+Zyrian,oz munnɨ,negation forms,syntactic,
+Permyak,ozə munə,negation forms,syntactic,
+Zyrian,oz,neg.2pl.pres,morphological,
+Permyak,od,neg.2pl.pres,morphological,
+Zyrian,-əj,2pl imperative forms,morphological,
+Permyak,-ce,2pl imperative forms,morphological,
+Zyrian,_,diminutive -ко,morphological,
+Permyak,-ko,diminutive -ко,morphological,
+Zyrian,med,optative particle,morphological,
+Permyak,aɕ,optative particle,morphological,
+Zyrian,_,gerund -тӧн,morphological,
+Permyak,tən,gerund -тӧн,morphological,
+Zyrian,_,pejorative -жуг,derivational,
+Permyak,-ʒuɡ,pejorative -жуг,derivational,
+Zyrian,-tor,diminutive -тор,derivational,
+Permyak,_,diminutive -тор,derivational,
+Zyrian,_,diminutive -иньӧй,derivational,
+Permyak,-iɲəj,diminutive -иньӧй,derivational,
+Zyrian,-tə,discourse marker -тӧ,morphological,
+Permyak,_,discourse marker -тӧ,morphological,
+Zyrian,-sə,discourse marker -сӧ,morphological,
+Permyak,_,discourse marker -сӧ,morphological,
+Zyrian,_,discourse marker -ту,morphological,
+Permyak,-tu,discourse marker -ту,morphological,
+Zyrian,_,discourse marker -то,morphological,
+Permyak,-to,discourse marker -то,morphological,
+Zyrian,-ə,question particle / word,lexical,
+Permyak,ja,question particle / word,lexical,
